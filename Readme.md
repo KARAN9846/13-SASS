@@ -33,7 +33,7 @@ Learn more about color combination of webpage.This project taught me how to add 
 ## Screenshot 
 
 
-# [Live Link](https://tranquil-croissant-7d712b.netlify.app/)
+# [Live Link](https://willowy-basbousa-4e8f7b.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
